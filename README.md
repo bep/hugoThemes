@@ -9,7 +9,7 @@ A collection of all themes that were created by the Hugo community. See a comple
 ## Build script
 
 For the curious,
-[here's how](https://github.com/spf13/hugoThemeSiteScript/blob/master/generateThemeSite.sh)
+[here's how](https://github.com/bep/hugoThemes/blob/master/generateThemeSite.sh)
 this automatic adding is accomplished.
 
 # Installation
