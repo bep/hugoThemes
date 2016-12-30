@@ -1,3 +1,6 @@
+[![CircleCI](https://circleci.com/gh/bep/hugoThemes.svg?style=svg)](https://circleci.com/gh/bep/hugoThemes)
+
+**Work in progress:** Testing new build setup. Deploys to: http://hugothemes.bep.is
 
 # Hugo themes
 
