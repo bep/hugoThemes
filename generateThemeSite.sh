@@ -86,6 +86,7 @@ popd
 echo "BUILDING FROM" `pwd`
 
 # Clean before new build
+# TODO(bep) probably not needed with CircleCI
 try rm -rf themeSite/public
 try rm -rf themeSite/static/theme
 try rm -rf themeSite/content

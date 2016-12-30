@@ -17,7 +17,6 @@ test:
     - pygmentize -V
   override:
     - bash ./generateThemeSite.sh http://hugothemes.bep.is
-    - rm -rf ./hugoThemeSite/themeSite/public
     - hugo -s hugoThemeSite/themeSite -b http://hugothemes.bep.is 
   
 checkout:
